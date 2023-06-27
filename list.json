@@ -1,0 +1,64 @@
+{
+	"provinces": [
+		{
+			"name": "Alberta",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/2560px-Flag_of_Alberta.svg.png",
+			"description": "Alberta is known for its vast natural resources, including oil, gas, and minerals. It is home to the stunning Canadian Rockies, vibrant cities, and a thriving agricultural industry. With its breathtaking landscapes, outdoor enthusiasts can enjoy activities such as hiking, skiing, and wildlife viewing.",
+			"major_cities": ["Calgary", "Edmonton", "Red Deer"]
+		},
+		{
+			"name": "British Columbia",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_British_Columbia.svg/2560px-Flag_of_British_Columbia.svg.png",
+			"description": "British Columbia is known for its diverse geography, ranging from picturesque coastlines to majestic mountains. It offers a mix of urban life, outdoor adventure, and a thriving film industry. The province is a haven for outdoor enthusiasts, offering activities such as hiking, skiing, fishing, and whale-watching along its stunning coastline.",
+			"major_cities": ["Vancouver", "Victoria", "Kelowna"]
+		},
+		{
+			"name": "Manitoba",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/2560px-Flag_of_Manitoba.svg.png",
+			"description": "Manitoba is located at the heart of Canada and offers diverse landscapes, including forests, prairies, and thousands of lakes. It is known for its friendly communities, rich history, and cultural heritage. Visitors can explore historic sites, visit art galleries, and enjoy outdoor activities such as fishing, hiking, and canoeing.",
+			"major_cities": ["Winnipeg", "Brandon", "Thompson"]
+		},
+		{
+			"name": "New Brunswick",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg",
+			"description": "New Brunswick is Canada's only officially bilingual province, with a rich Acadian heritage. It is known for its stunning coastline, historic sites, and vibrant arts and culture scene. Visitors can explore picturesque fishing villages, enjoy outdoor activities such as kayaking and hiking, and indulge in the province's delicious seafood.",
+			"major_cities": ["Fredericton", "Saint John", "Moncton"]
+		},
+		{
+			"name": "Newfoundland and Labrador",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Newfoundland_and_Labrador.svg/2560px-Flag_of_Newfoundland_and_Labrador.svg.png",
+			"description": "Newfoundland and Labrador is located on the eastern edge of North America and is known for its rugged coastline, vibrant culture, and rich fishing heritage. It offers breathtaking landscapes and opportunities for outdoor exploration. Visitors can witness icebergs, spot whales, visit historic lighthouses, and immerse themselves in the province's unique music and traditions.",
+			"major_cities": ["St. John's", "Corner Brook", "Mount Pearl"]
+		},
+		{
+			"name": "Nova Scotia",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Nova_Scotia.svg/2560px-Flag_of_Nova_Scotia.svg.png",
+			"description": "Nova Scotia is a maritime province known for its picturesque coastline, charming fishing villages, and rich history. It offers a vibrant music scene, delicious seafood, and numerous outdoor activities. Visitors can explore historic sites, enjoy coastal drives, indulge in fresh lobster, and experience the province's warm hospitality.",
+			"major_cities": ["Halifax", "Cape Breton", "Sydney"]
+		},
+		{
+			"name": "Ontario",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/1920px-Flag_of_Ontario.svg.png",
+			"description": "Ontario is the most populous province in Canada and home to the country's largest city, Toronto. It offers a mix of vibrant urban life, stunning natural landscapes, and cultural diversity. Visitors can explore world-class museums, visit iconic landmarks such as the CN Tower, and enjoy outdoor activities in Ontario's beautiful parks and lakes.",
+			"major_cities": ["Toronto", "Ottawa", "Hamilton"]
+		},
+		{
+			"name": "Prince Edward Island",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/2560px-Flag_of_Prince_Edward_Island.svg.png",
+			"description": "Prince Edward Island (PEI) is Canada's smallest province and known for its stunning red-sand beaches, charming rural landscapes, and historic sites. It is famous for its Anne of Green Gables heritage and delicious seafood. Visitors can explore the island's scenic drives, enjoy golfing, cycling, and relax on the beautiful beaches.",
+			"major_cities": ["Charlottetown", "Summerside", "Stratford"]
+		},
+		{
+			"name": "Quebec",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/2560px-Flag_of_Quebec.svg.png",
+			"description": "Quebec is Canada's largest province by area and predominantly French-speaking. It offers a unique blend of European charm, vibrant cities, beautiful architecture, and a rich cultural heritage. Visitors can explore the historic streets of Old Quebec, indulge in the province's renowned cuisine, and enjoy a variety of festivals and events throughout the year.",
+			"major_cities": ["Montreal", "Quebec City", "Laval"]
+		},
+		{
+			"name": "Saskatchewan",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/2560px-Flag_of_Saskatchewan.svg.png",
+			"description": "Saskatchewan is known as the \"Land of the Living Skies\" due to its expansive prairies and breathtaking sunsets. It is a province with a strong agricultural industry and offers outdoor recreational opportunities. Visitors can explore national parks, enjoy fishing and boating on its many lakes, and experience the warm hospitality of the province's communities.",
+			"major_cities": ["Saskatoon", "Regina", "Prince Albert"]
+		}
+	]
+}
